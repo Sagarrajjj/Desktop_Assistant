@@ -65,8 +65,7 @@ Installation and Usage
 Clone the Repository:
 First, clone this repository to your local machine using git.
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Sagarrajjj/Desktop_Assistant.git
 
 Install Dependencies:
 Make sure you have all the required libraries installed.
